@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 18 11:44:06 2020
 
-@author: saura
-"""
 class PlayerCharacter:
     membership = True  
     def __init__(self, name, age):

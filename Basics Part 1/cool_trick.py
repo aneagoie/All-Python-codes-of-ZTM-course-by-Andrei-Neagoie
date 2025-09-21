@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 15 12:42:11 2020
 
-@author: saura
-"""
 a,b,c = 1,2,3 	# we can pass 1,2,3 as list, tuple or set
 print(a)
 print(b)

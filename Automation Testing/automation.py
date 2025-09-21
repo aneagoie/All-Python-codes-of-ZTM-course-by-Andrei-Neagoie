@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 28 09:59:41 2020
 
-@author: saura
-"""
 # from selenium import webdriver
 from selenium import webdriver
 edge_browser = webdriver.Edge('./msedgedriver.exe')

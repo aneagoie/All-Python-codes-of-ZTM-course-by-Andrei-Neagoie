@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 17 14:26:01 2020
 
-@author: saura
-"""
 # *args and **kwargs
 
 def super_func(*args, **kwargs):    # we can actually name these parameters anything we want, 

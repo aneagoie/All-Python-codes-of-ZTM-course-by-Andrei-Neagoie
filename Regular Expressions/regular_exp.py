@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 23 17:22:13 2020
 
-@author: saura
-"""
 import re
 
 string = "this is a really cool string really!"

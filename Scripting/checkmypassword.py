@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 25 13:06:04 2020
 
-@author: saura
-"""
 import requests
 import hashlib
 import sys

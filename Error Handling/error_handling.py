@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 20 10:12:36 2020
 
-@author: saura
-"""
 while True:
     try:
         age = int(input("Enter your age: "))

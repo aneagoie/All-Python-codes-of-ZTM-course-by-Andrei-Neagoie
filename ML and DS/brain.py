@@ -12,6 +12,7 @@ for eachPrediction, eachProbability in zip(predictions, probabilities):
     print(eachPrediction , " : " , eachProbability)
 
 
+
 '''
 https://github.com/OlafenwaMoses/ImageAI
 to run the above code, we need to install the modules, and download the SqueezeNet file.

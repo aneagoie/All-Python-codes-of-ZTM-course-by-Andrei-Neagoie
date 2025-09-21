@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 23 10:21:55 2020
 
-@author: saura
-"""
 import pdb
 
 def add(n1, n2):

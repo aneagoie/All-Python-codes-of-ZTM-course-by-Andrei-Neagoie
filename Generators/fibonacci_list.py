@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 20 13:04:16 2020
 
-@author: saura
-"""
 def fib(num):
     a = 0
     b= 1

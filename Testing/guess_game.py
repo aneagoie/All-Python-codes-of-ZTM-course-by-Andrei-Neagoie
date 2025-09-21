@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 24 13:44:51 2020
 
-@author: saura
-"""
 import random
 
 def run_guess(guess, answer):

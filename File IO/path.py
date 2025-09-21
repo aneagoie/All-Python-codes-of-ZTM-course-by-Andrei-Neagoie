@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 23 13:46:18 2020
 
-@author: saura
-"""
 with open(".\happy\happy.txt", mode = 'a') as my_file:
     text = my_file.write("I am HAPPY!")
     print(text)     # it prints the no. of letters written into the file

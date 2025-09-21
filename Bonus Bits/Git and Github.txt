@@ -24,6 +24,7 @@ if someone has made the changes in the github page, then use this command to upd
 >git branch
 to see all the branches available
 
+
 >git branch <new_branch_name>
 to create a new branch
 

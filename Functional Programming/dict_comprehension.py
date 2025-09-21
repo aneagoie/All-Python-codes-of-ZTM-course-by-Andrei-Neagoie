@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 19 14:16:38 2020
 
-@author: saura
-"""
 my_dict = {num:num**2 for num in range(1,11)}
 print(my_dict)
 

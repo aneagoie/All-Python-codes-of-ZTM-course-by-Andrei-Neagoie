@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 22 19:16:15 2020
 
-@author: saura
-"""
 import datetime
 from time import time
 from array import array

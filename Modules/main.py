@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 22 11:15:56 2020
 
-@author: saura
-"""
 import utilities
 import shopping.shopping_cart
 
